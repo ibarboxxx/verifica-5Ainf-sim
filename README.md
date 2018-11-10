@@ -11,7 +11,7 @@ Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una
 - [ ] fate il fork di questo progetto
 - [ ] copiate l'URL relativo al **vostro** progetto
 - [ ] aprite git-bash su Windows
-- [ ] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
+- [ ] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella con `cd` se necessario
 - [ ] scaricate il progetto con `git clone <URL-vostro-repo>`
 - [ ] navigate nella cartella appena creata
 - [ ] aprite Esplora Risorse
@@ -29,6 +29,7 @@ Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi ve
 - [ ] mettete un commento **significativo**, ad esempio "Consegna compito" se state facendo il commit di consegna
 - [ ] pubblicate il codice con `git push`
 - [ ] rispondete alla issue sul mio repository originale con il testo "Consegnato"
+- [ ] **fate il sign-out** dal vostro account GitHub prima di abbandonare la postazione 
 
 # Note implementazione progetto
 Fate girare il vostro progetto il più spesso possibile per controllare che non sia corretto.
