@@ -24,7 +24,7 @@ Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi ve
 - [ ] salvate il vostro codice Java
 - [ ] da git-bash, assicuratevi di essere all'interno della cartella del repository (il prompt deve finire con `(master)`)
 - [ ] fate `git status` per controllare i file modificati
-- [ ] aggiungete il file che volete pubblicare con `git add <nome-file>`
+- [ ] aggiungete il file che volete pubblicare con `git add <path/nome-file>`
 - [ ] fate il commit delle modifiche con `git commit`
 - [ ] mettete un commento **significativo**, ad esempio "Consegna compito" se state facendo il commit di consegna
 - [ ] pubblicate il codice con `git push`
